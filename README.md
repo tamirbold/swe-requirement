@@ -41,7 +41,7 @@ Users, including buyers and sellers
 
     5. Booking
 
-Record order information, including buyer, seller, product, shipping address, transaction time and other information
+Record order information, including buyer, seller, product, shipping address, transaction time and other information.
 
 ### Context diagram
 ![Context diagram](/Context%20diagram.jpeg)

@@ -42,18 +42,20 @@ Users, including buyers and sellers
     5. Booking
 
 Record order information, including buyer, seller, product, shipping address, transaction time and other information.
+### Use Case Description
+[Use Case Description](/Use%20Case%20Description.md)
 
 ### Context diagram
-![Context diagram](/Context%20diagram.jpeg)
+![Context diagram](/diagrams/Context%20diagram.jpeg)
 
 ### Use case diagram
-![Use case diagram](/Use%20case%20diagram.jpeg)
+![Use case diagram](/diagrams/Use%20case%20diagram.jpeg)
 
 ### Class diagram
-![Class diagram](/Class%20Diagram.jpeg)
+![Class diagram](/diagrams/Class%20Diagram.jpeg)
 
 ### Sequence diagram
-![Sequence diagram](/Sequence%20diagram.png)
+![Sequence diagram](/diagrams/Sequence%20diagram.png)
 
 
 ### Team members

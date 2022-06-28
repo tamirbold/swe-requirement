@@ -43,7 +43,7 @@ Users, including buyers and sellers
 
 Record order information, including buyer, seller, product, shipping address, transaction time and other information.
 ### Use Case Description
-[Use Case Description](/Use%20Case%20Description.md)
+[Use Case Description](https://github.com/xocoo/swe-requirement/blob/main/Use%20Case%20description.md)
 
 ### Context diagram
 ![Context diagram](/diagrams/Context%20diagram.jpeg)

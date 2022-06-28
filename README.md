@@ -52,6 +52,10 @@ Record order information, including buyer, seller, product, shipping address, tr
 ### Class diagram
 ![Class diagram](/Class%20Diagram.jpeg)
 
+### Sequence diagram
+![Sequence diagram](/Sequence%20diagram.png)
+
+
 ### Team members
 1. Khosbayar Sandag
 2. Temuujin Tsogt

@@ -1,7 +1,5 @@
 **Use case descriptions**
 
-
-
 Registration
 
 |**Use Case**|**Registration**|

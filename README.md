@@ -42,6 +42,10 @@ Users, including buyers and sellers
     5. Booking
 
 Record order information, including buyer, seller, product, shipping address, transaction time and other information.
+
+
+### Architecture
+![Architecture](/diagrams/Architecture.png)
 ### Use Case Description
 [Use Case Description](https://github.com/xocoo/swe-requirement/blob/main/Use%20Case%20description.md)
 

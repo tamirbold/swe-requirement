@@ -52,8 +52,11 @@ Record order information, including buyer, seller, product, shipping address, tr
 ### Context diagram
 ![Context diagram](/diagrams/Context%20diagram.jpeg)
 
-### Use case diagram
+### Use Case diagram
 ![Use case diagram](/diagrams/Use%20case%20diagram.jpeg)
+
+### Product add Use Case diagram
+![Product add Use Case diagram](/diagrams/Product%20add%20sequence.png)
 
 ### Class diagram
 ![Class diagram](/diagrams/Class%20Diagram.jpeg)

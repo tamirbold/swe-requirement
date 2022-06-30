@@ -62,7 +62,7 @@ Record order information, including buyer, seller, product, shipping address, tr
 ![Order add Use Case diagram](/diagrams/Order%20add%20sequence.png)
 
 ### Class updated diagram
-![Class diagram](/diagrams/updated%20class%20diagram)
+![Class diagram](/diagrams/updated%20class%20diagram.png)
 ### Class diagram
 ![Class diagram](/diagrams/Class%20Diagram.jpeg)
 
